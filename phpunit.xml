@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrape="vendor/autoload.php" colors="true" verbos="true" stopOnFailure="false">
+    <testsuites>
+        <testsuite name="Test Yellow">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
